@@ -39,3 +39,7 @@ and get an overview of TypeScript capabilities and principles.
  2. Start by opening `exercises/exercise-00/index.ts`.
 
  3. Once done with the exercise, proceed to the next one.
+
+## 接下来我会在每一个 exercise 文件夹中加入我的答案
+
+   1. exercise-00 ➡️ [solution1](./exercises/exercise-00/solution1.ts), [solution2](./exercises/exercise-00/solution2.ts)

@@ -1,12 +1,21 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "baseUrl": ".",
+    "outDir": "dist",
+    "sourceMap": false,
+    "target": "esnext",
     "module": "commonjs",
+    "moduleResolution": "node",
+    "allowJs": false,
     "strict": true,
-    "typeRoots": [
-      "exercises/exercise-10/declarations",
-      "exercises/exercise-11/declarations",
-      "node_modules/@types"
-    ]
+    "noUnusedLocals": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "removeComments": false,
+    "jsx": "preserve",
+    "lib": ["esnext", "dom"],
+    "types": ["jest", "puppeteer", "node"],
+    "rootDir": "."
   }
 }

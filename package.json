@@ -12,10 +12,12 @@
     "chalk": "^2.4.2",
     "mz": "^2.7.0",
     "ts-node": "^8.3.0",
-    "typescript": "^3.5.3"
+    "typescript": "^3.9.3"
   },
   "scripts": {
     "0": "ts-node exercises/exercise-00/index.ts",
+    "s0-1": "ts-node exercises/exercise-00/solution1.ts",
+    "s0-2": "ts-node exercises/exercise-00/solution2.ts",
     "1": "ts-node exercises/exercise-01/index.ts",
     "2": "ts-node exercises/exercise-02/index.ts",
     "3": "ts-node exercises/exercise-03/index.ts",
@@ -31,5 +33,7 @@
     "13": "ts-node exercises/exercise-13/index.ts",
     "14": "ts-node exercises/exercise-14/index.ts",
     "15": "ts-node exercises/exercise-15/index.ts"
-  }
+  },
+  "repository": "https://github.com/rottenpen/typescript-exercises.git",
+  "author": "rottenpen <522876037@qq.com>"
 }
