@@ -43,3 +43,18 @@ and get an overview of TypeScript capabilities and principles.
 ## I will add my solutions under their folder/接下来我会在每一个 exercise 文件夹中加入我的答案
 
    1. exercise-00 ➡️ [solution1](./exercises/exercise-00/solution1.ts), [solution2](./exercises/exercise-00/solution2.ts)
+   2. exercise-01 ➡️ [solution1](./exercises/exercise-01/solution1.ts)
+   3. exercise-02 ➡️ [solution1](./exercises/exercise-02/solution1.ts)
+   4. exercise-03 ➡️ [solution1](./exercises/exercise-03/solution1.ts)
+   5. exercise-04 ➡️ [solution1](./exercises/exercise-04/solution1.ts)
+   6. exercise-05 ➡️ [solution1](./exercises/exercise-05/solution1.ts)
+   7. exercise-06 ➡️ [solution1](./exercises/exercise-06/solution1.ts)
+   8. exercise-07 ➡️ [solution1](./exercises/exercise-07/solution1.ts)
+   9. exercise-08 ➡️ [solution1](./exercises/exercise-08/solution1.ts)
+   10. exercise-09 ➡️ [solution1](./exercises/exercise-09/solution1.ts)
+   11. exercise-10 ➡️ [solution1](./exercises/exercise-10/solution1.ts)
+   12. exercise-11 ➡️ [solution1](./exercises/exercise-11/solution1.ts)
+   13. exercise-12 ➡️ [solution1](./exercises/exercise-12/solution1.ts)
+   14. exercise-13 ➡️ [solution1](./exercises/exercise-13/solution1.ts)
+   15. exercise-14 ➡️ [solution1](./exercises/exercise-14/solution1.ts)
+   16. exercise-15 ➡️ [solution1](./exercises/exercise-15/solution1.ts)
